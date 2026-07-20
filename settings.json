@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "KYZOUS_SMP.aternos.me",
+    "port": 44573,
     "version": "1.20.1",
     "try-creative": false
   },
