@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "KYZOUS_SMP.aternos.me",
+    "ip": "KYZOUS_SMP_S2.aternos.me",
     "port": 44573,
     "version": "1.20.1",
     "try-creative": false
